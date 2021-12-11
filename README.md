@@ -7,11 +7,11 @@
 python, javascript, go, & html developer.
 <p align="center"> 
    ﹒
-    <a href="https://discord.gg/XrJ46znYt discord</a>
+    <a href="https://discord.gg/XrJ46znYtdiscord</a>
    ﹒
-    <a href="https://github.com/1vxontop github</a>
+    <a href="https://github.com/1vxontopgithub</a>
    ﹒
-    <a href="http://1vx2rich.ml/ website</a>
+    <a href="http://1vx2rich.ml/website</a>
    ﹒
 </p>
 <p align="center">1vx on top</p>
