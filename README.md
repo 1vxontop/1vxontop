@@ -1,15 +1,17 @@
-<p align="center">  
-<img src="https://media.discordapp.net/attachments/813341662545313832/813343404507267092/pokemon_pixel.gif">
+<p align="center">
+<img src="https://cdn.discordapp.com/attachments/847980368162324521/847985686942318651/ezgif.com-gif-maker_7.gif%22%3E
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=1vxontop&color=000000%22%3E
 </p>
 <p align="center">
-    1vx
-<p align="center">  
-<img src="https://komarev.com/ghpvc/?username=1vxontop&color=grey">
+python, javascript, go, & html developer.
+<p align="center"> 
+   ﹒
+    <a href="https://discord.gg/XrJ46znYt4%22%3Ediscord</a>
+   ﹒
+    <a href="https://github.com/1vxontop%22%3Egithub</a>
+   ﹒
+    <a href="http://1vx2rich.ml/%22%3Ewebsite</a>
+   ﹒
 </p>
-    <p align="center">
-  <img src="https://discord.c99.nl/widget/theme-5/853256987337031700.png"/>
-</p>
-<p align="center">
-Currently learning python
-<p align="center">
-    <a href="https://discord.gg/yv7Z3zMrSD">Discord Server</a>
+<p align="center">1vx on top</p>
