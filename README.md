@@ -7,7 +7,7 @@
 <img src="https://komarev.com/ghpvc/?username=1vxontop&color=grey">
 </p>
     <p align="center">
-  <img src="https://discord.c99.nl/widget/theme-4/358310460187082763.png"/>
+  <img src="https://discord.c99.nl/widget/theme-4/853292591310569473.png"/>
 </p>
 <p align="center">
    1vx#8754
