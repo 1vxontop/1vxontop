@@ -1,15 +1,15 @@
-<p align="center">  
-<img src="https://media.discordapp.net/attachments/813341662545313832/813343404507267092/pokemon_pixel.gif">
-</p>
-<p align="center">
-    1vx
-<p align="center">  
-<img src="https://komarev.com/ghpvc/?username=1vxontop&color=grey">
-</p>
-    <p align="center">
-  <img src="https://discord.c99.nl/widget/theme-4/853292591310569473.png"/>
-</p>
-<p align="center">
-   1vx#8754
-<p align="center">
-    <a href="https://discord.gg/4nSYqZ8KAA">Discord Server</a>
+```bat
+C:\Github\Users\1vxontop> fetchprofile
+```
+
+<img align="left" src="https://cdn.discordapp.com/avatars/853292591310569473/b4e7b174703524882044ba97026e31dd.webp" width="200" /> 
+
+```csharp
+   1vxontop@github
+-----------------
+
+    tiktok :  1vx2rich
+instagram  :  1vx2rich
+   website :  1vx2rich.xyz
+  Discord  :  1vx#8754 | 853292591310569473
+```
